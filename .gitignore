@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/TestApp/Debug
+/TestApp/x64/Debug
+/x64/Debug
+/TestApp/TestApp.vcxproj.user
+/TestApp/TestApp.vcxproj.filters
+/.vs/TestApp/v16
